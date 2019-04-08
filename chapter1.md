@@ -13,13 +13,13 @@ xp: 100
 skills: 2
 ```
 
-This is an example exercise.
+
 
 `@instructions`
-
+Import the scikit-learn library.
 
 `@hint`
-
+In python import is accomplished with > import {module_name} <
 
 `@pre_exercise_code`
 ```{python}
@@ -33,10 +33,10 @@ This is an example exercise.
 
 `@solution`
 ```{python}
-
+import sklearn
 ```
 
 `@sct`
 ```{python}
-
+check_object(sklearn)
 ```
