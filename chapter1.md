@@ -38,5 +38,5 @@ import sklearn
 
 `@sct`
 ```{python}
-check_object(sklearn, missing_msg='yikes')
+Ex().check_object(sklearn, missing_msg='yikes')
 ```
